@@ -4,9 +4,12 @@
 	</head>
 	
 	<body>
-	    Omega Team
+	    <b>Omega Team</b>
+	    
+	    Steam Group <a href="https://goo.gl/Efrk22">Click Here to Join</a>
+	    
 	</body>
 	    
-		Steam Group <a href="https://goo.gl/Efrk22">Click Here to Join</a>
+		
 	
 	<html>
