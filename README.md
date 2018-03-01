@@ -7,6 +7,6 @@
 	    Omega Team
 	</body>
 	    
-		<a href="https://goo.gl/Efrk22">Click Here to Join!</a>
+		<a href="https://goo.gl/Efrk22">Click Here to Join</a>
 	
 	<html>
