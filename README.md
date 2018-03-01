@@ -5,11 +5,10 @@
 	
 	<body>
 	    <b>Omega Team</b>
-	    
-	    Steam Group <a href="https://goo.gl/Efrk22">Click Here to Join</a>
-	    
 	</body>
 	    
+		<ul>
+		     <li>Steam Group <a href="https://goo.gl/Efrk22">Click Here to Join</a></li>
 		
 	
 	<html>
