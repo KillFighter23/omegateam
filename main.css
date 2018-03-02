@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+
+header {
+   background: #999;
+   color: white;
+}
+
+nav ul{
+	margin: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	list-style-type: none;
+
+}
