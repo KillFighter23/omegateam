@@ -1,4 +1,8 @@
 body {
-  background:#0000FF
-  font-family: comic sans;
+    margin: 0;
+}
+
+header {
+   background: #999;
+   color: white;
 }
